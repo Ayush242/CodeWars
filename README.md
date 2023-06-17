@@ -1,3 +1,3 @@
-#Codewars
+# Codewars
 
-solution for coding problems
+solution for codewars c++ problems
