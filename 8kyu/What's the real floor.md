@@ -8,7 +8,6 @@ With the 1st floor being replaced by the ground floor and the 13th floor being r
 
 Basements (negatives) stay the same as the universal level.
 
-[More information here]()
 Examples
 1 => 0
 0 => 0
